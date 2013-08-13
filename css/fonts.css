@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'MetaNormalC';
+    src: url('../fonts/MetaNormalC.eot');
+    src: url('../fonts/MetaNormalC.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/MetaNormalC.woff') format('woff'),
+         url('../fonts/MetaNormalC.ttf') format('truetype'),
+         url('../fonts/MetaNormalC.svg#MetaNormalC') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MetaNormalC';
+    src: url('../fonts/MetaBoldC.eot');
+    src: url('../fonts/MetaBoldC.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/MetaBoldC.woff') format('woff'),
+         url('../fonts/MetaBoldC.ttf') format('truetype'),
+         url('../fonts/MetaBoldC.svg#MetaBoldC') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MetaNormalC';
+    src: url('../fonts/MetaBoldCItalic.eot');
+    src: url('../fonts/MetaBoldCItalic.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/MetaBoldCItalic.woff') format('woff'),
+         url('../fonts/MetaBoldCItalic.ttf') format('truetype'),
+         url('../fonts/MetaBoldCItalic.svg#MetaBoldCItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'MetaMediumC';
+    src: url('../fonts/MetaMediumC.eot');
+    src: url('../fonts/MetaMediumC.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/MetaMediumC.woff') format('woff'),
+         url('../fonts/MetaMediumC.ttf') format('truetype'),
+         url('../fonts/MetaMediumC.svg#MetaMediumC') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
