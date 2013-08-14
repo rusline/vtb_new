@@ -330,6 +330,16 @@ background: -webkit-linear-gradient(top,  #f9f9f9 0%,#eaeaea 100%);background: -
 background: -ms-linear-gradient(top,  #f9f9f9 0%,#eaeaea 100%);background: linear-gradient(to bottom,  #f9f9f9 0%,#eaeaea 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f9f9f9', endColorstr='#eaeaea',GradientType=0 );
 }
+.structure-box .st ul li div a:hover{
+background: #fafafa;
+background: -moz-linear-gradient(top,  #fafafa 0%, #c3c2c2 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fafafa), color-stop(100%,#c3c2c2));
+background: -webkit-linear-gradient(top,  #fafafa 0%,#c3c2c2 100%);
+background: -o-linear-gradient(top,  #fafafa 0%,#c3c2c2 100%);
+background: -ms-linear-gradient(top,  #fafafa 0%,#c3c2c2 100%);
+background: linear-gradient(to bottom,  #fafafa 0%,#c3c2c2 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fafafa', endColorstr='#c3c2c2',GradientType=0 );
+}
 .structure-box .st ul li li div a{color:#f8a243}
 .structure-box .st ul li div a span{font-weight:normal;font-style:italic}
 .structure-box .st ul li.last{background:#fff}
