@@ -377,3 +377,31 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#73bbff', end
 .defaultTheme1 {margin:0;width:500px;background:url(../i/new/ttip.png);font-size:13px;font-family:Georgia, "Times New Roman", Times, serif;line-height:22px;color:#fff;font-style:italic;padding:25px 35px;}	
 .defaultTheme1 span{display:block;padding-bottom:10px;font-weight:600;color:#299fde}	
 
+.anketa-box{padding:20px 0}
+.anketa-box h2{color: #000; font-family: 'MetaMediumC', Arial, Tahoma, sans-serif;padding-bottom:20px}
+.anketa-form{display: table;} 
+.anketa-form dl{display: table-row;margin:0;padding:0;width:600px;} 
+.anketa-form dl dt{display: table-cell;width:185px;padding:4px 20px 14px 0;color:#010101;font-size:12px;vertical-align:top} 
+.anketa-form .add{padding:0;position:relative;height:2px;font-size:1px;margin:0} 
+.anketa-form .add a{color:#0081c6;font-size:12px;text-decoration:none;border-bottom:1px dashed #0081c6;position:absolute;top:-20px} 
+.anketa-form dl dt sup{color:#fe0202} 
+.anketa-form dl dd{display: table-cell;width:385px;padding:0 0 14px 0;vertical-align:top;} 
+.anketa-form label{color:#4c4c4c;}
+.anketa-form label input{position:relative;bottom:-1px}
+.anketa-form span{color:#6d6c6c;display:block;padding-bottom:10px}
+.anketa-form div.snoska{color:#6d6c6c;font-size:11px;font-style:italic;padding:10px 0 25px 0}
+.anketa-form input[type="text"].in01{width:205px;padding:2px 5px;font-size:12px;font-family:Arial, Helvetica, sans-serif}
+.anketa-form textarea.textarea1{width:210px;padding:5px 0 0 5px;height:125px;font-size:12px;font-family:Arial, Helvetica, sans-serif}
+.anketa-form textarea.textarea2{width:210px;padding:5px 0 0 5px;height:100px;font-size:12px;font-family:Arial, Helvetica, sans-serif}
+.anketa-form select{font-size:12px;font-family:Arial, Helvetica, sans-serif;padding:4px 0 2px 5px}
+.anketa-form input[type="submit"]{padding:5px 20px;color:#0a2973;font-size:16px;font-family: 'MetaNormalC';text-shadow:1px 1px #fff;border:0;
+background: #dfeff7;
+background: -moz-linear-gradient(top,  #dfeff7 0%, #bfd1db 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#dfeff7), color-stop(100%,#bfd1db));
+background: -webkit-linear-gradient(top,  #dfeff7 0%,#bfd1db 100%);
+background: -o-linear-gradient(top,  #dfeff7 0%,#bfd1db 100%);
+background: -ms-linear-gradient(top,  #dfeff7 0%,#bfd1db 100%);
+background: linear-gradient(to bottom,  #dfeff7 0%,#bfd1db 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dfeff7', endColorstr='#bfd1db',GradientType=0 );
+border-radius:5px;-moz-box-shadow:0 7px 5px -5px #99; -webkit-box-shadow: 0 7px 5px -5px #999; box-shadow: 0 7px 5px -5px #999;
+}

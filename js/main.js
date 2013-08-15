@@ -5,6 +5,8 @@ $(function() {
 		$('input[placeholder], textarea[placeholder]').placeholder();
 	}
 	
+	$("input.phonenumber").mask("+9 (999) 999-99-99");
+	
 	//to top
 	$('#toTop').click(function() {
 		$('html,body').animate({scrollTop:0},800);
@@ -36,6 +38,8 @@ $(function() {
       }
 		}
 	});
+	
+	
 		
 	
 });
