@@ -7,6 +7,17 @@ $(function() {
 	
 	$("input.phonenumber").mask("+9 (999) 999-99-99");
 	
+	// Clone
+	$('.add1').click(function() {
+		$(".clone1 .line").clone().appendTo(".clone-add1");
+		return false;
+	});
+	$('.add2').click(function() {
+		$(".clone2 .line").clone().appendTo(".clone-add2");
+		return false;
+	});
+	
+	
 	//to top
 	$('#toTop').click(function() {
 		$('html,body').animate({scrollTop:0},800);
